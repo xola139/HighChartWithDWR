@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dwr>
+	<allow>
+		<create creator="new" javascript="Inicial" scope="application">
+			<param name="class" value="com.elkardumen.inicia.Inicia" />
+		</create>
+	</allow>
+
+</dwr>
